@@ -1,0 +1,33 @@
+.nav {
+  padding-left: 50%;
+}
+
+.title {
+  font-size: 175%;
+  margin-left: 10%;
+  color: #fff;
+}
+.row.titleheader {
+  background-color: darkorange;
+}
+
+.nav>li>a {
+
+  color: #111;
+
+}
+
+.overlayText {
+  position: absolute;
+  top: 50%;
+  color: #fff;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: -webkit-xxx-large;
+  font-weight: 500;
+}
+
+img{
+  height: 100%;
+  width: 100%;
+}
